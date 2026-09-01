@@ -56,6 +56,6 @@ Your financial data is stored locally in your browser. No external server or clo
 
 ## 👨‍💻 Author
 
-Developed by **Apam Balik 1337**.
+Developed by **ApamBalik1337**.
 
 ⭐ If you find this project useful, please consider giving it a star!
