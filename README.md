@@ -37,8 +37,8 @@ in your web browser.
 Alternatively:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd MYCASHFLOW
+git clone https://github.com/apambalik1337/MyCashFlow
+cd MyCashFlow
 ```
 
 Then open `index.html`.
